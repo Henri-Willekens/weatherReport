@@ -166,9 +166,9 @@ export default {
                     this.Forcity = this.city;
                 }
             ).catch(error => { console.log(error) }).finally((response) => {
-      // always executed
-      console.log('HTTP GET Finished!')
-    })
+                // always executed
+                console.log('HTTP GET Finished!')
+            })
         },
         addNewRow() {
             this.forecast_datas.push({
