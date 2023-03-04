@@ -165,7 +165,10 @@ export default {
                     this.Fortemperature = response.data.list[8].main.temp;
                     this.Forcity = this.city;
                 }
-            ).catch(error => { console.log(error) })
+            ).catch(error => { console.log(error) }).finally((response) => {
+      // always executed
+      console.log('HTTP GET Finished!')
+    })
         },
         addNewRow() {
             this.forecast_datas.push({
