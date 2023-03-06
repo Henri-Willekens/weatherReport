@@ -150,7 +150,7 @@ export default {
                     this.showClear = mainDescription == "Clear"
                     this.showCloudy = mainDescription == "Clouds"
                     this.showRainy = mainDescription == "Rain"
-                    this.showDrizzle = mainDescription == "Drizzle"
+                    this.showDrizzle = mainDescription == "Drizzle" || "Mist"
                     this.showSnow = mainDescription == "Snow"
                     this.showStorm = mainDescription == "Thunderstorm"
                 }
