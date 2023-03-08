@@ -1,4 +1,6 @@
-# My code is in src/views/RegularTables.vue and seen at http://localhost:8080/#/dashboard
+# weather-app ## Project setup ``` npm install ``` ### Compiles and hot-reloads for development ``` npm run serve ``` ### Compiles and minifies for production ``` npm run build ``` ### Lints and fixes files ``` npm run lint ``` ### Customize configuration See [Configuration Reference](https://cli.vuejs.org/config/). # weatherReport_vue # weatherReport_vue.
+
+# My code that's seen at http://localhost:8080/#/dashboard is in src/views/RegularTables.vue.
 
 
 # [BootstrapVue Argon Dashboard](https://demos.creative-tim.com/bootstrap-vue-argon-dashboard/?ref=bvad-github-readme) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&logo=twitter)](https://twitter.com/home?status=BootstrapVue%20Argon%20Dashboard%20is%20a%20Free%20Bootstrap%20and%Vue.js%20Dashboard%20made%20using%vue-cli%20%E2%9D%A4%EF%B8%8F%0Ahttps%3A//demos.creative-tim.com/bootstrap-vue-argon-dashboard%20%vue.js%20%23vue-cli%20%23argon%20%23argondesign%20%23angulardashboard%20%23argonvue%20%23vuedesign%20%23bootstrap%20%23design%20%23uikit%20%23freebie%20%20via%20%40CreativeTim)
